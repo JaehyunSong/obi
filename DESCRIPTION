@@ -8,5 +8,3 @@ Maintainer: Jaehyun Song <jaehyun.song@stu.kobe-u.ac.jp>
 Description: Measuring Japanese readability
 License: MIT
 LazyData: yes
-Imports:
-	data.table

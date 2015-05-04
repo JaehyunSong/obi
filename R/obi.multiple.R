@@ -3,7 +3,6 @@
 #' @author Jaehyun SONG
 #' @description Measuring Japanese readability with multiple texts
 #' @docType package
-#' @import data.table
 #'
 #' @usage obi.multiple(file.df)
 #'
