@@ -1,0 +1,12 @@
+Package: obi
+Type: Package
+Title: Measuring Japanese readability
+Version: 0.2
+Date: 2015-05-04
+Author: Jaehyun Song
+Maintainer: Jaehyun Song <jaehyun.song@stu.kobe-u.ac.jp>
+Description: Measuring Japanese readability
+License: MIT
+LazyData: yes
+Imports:
+	data.table
